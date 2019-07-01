@@ -3,7 +3,7 @@ website URL = http://d2bsc96e9h5ggz.cloudfront.net/index.html
 MEETS SPECIFICATIONS
 
 The S3 bucket is visible in the AWS Management console.
-![Screenshot](s3 bucket policy.png)
+![Screenshot](s3%20bucket%20policy.png)
 
 The student has submitted a screenshot showing all the website files uploaded to the newly created S3 bucket.
 
